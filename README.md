@@ -1,4 +1,4 @@
-# simple-task
+# currency exchange
 
 ## Project setup
 ```
